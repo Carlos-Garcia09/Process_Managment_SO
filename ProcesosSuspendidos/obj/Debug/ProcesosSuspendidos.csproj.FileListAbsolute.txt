@@ -1,0 +1,13 @@
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\bin\Debug\SimuladorProcesoPorLotes.exe.config
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\bin\Debug\SimuladorProcesoPorLotes.exe
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\bin\Debug\SimuladorProcesoPorLotes.pdb
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\ProcesosSuspendidos.csproj.AssemblyReference.cache
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\ProcesosSuspendidos.csproj.SuggestedBindingRedirects.cache
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.BCP.resources
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.Form1.resources
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.main.resources
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.Properties.Resources.resources
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\ProcesosSuspendidos.csproj.GenerateResource.cache
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\ProcesosSuspendidos.csproj.CoreCompileInputs.cache
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.exe
+F:\Universidadd\Universidad\6 sem\Sem sistemas operativos\Programa 8\SimuladorProcesoPorLotes\obj\Debug\SimuladorProcesoPorLotes.pdb
