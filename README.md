@@ -1,1 +1,1 @@
-# Process_Managment_SO
+Simulation of how process management works in operating systems, implemented using C#.
